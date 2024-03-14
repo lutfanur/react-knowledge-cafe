@@ -1,0 +1,58 @@
+[
+    {
+        "id": 1,
+        "cover": "cover1.jpg",
+        "title": "The Art of Programming",
+        "author": "John Doe",
+        "author_img": "author1.jpg",
+        "posted_date": "2024-01-15",
+        "reading_time": 10,
+        "hashtags": [
+            "programming",
+            "coding",
+            "development"
+        ]
+    },
+    {
+        "id": 2,
+        "cover": "cover2.jpg",
+        "title": "Web Development Basics",
+        "author": "Jane Smith",
+        "author_img": "author2.jpg",
+        "posted_date": "2024-01-16",
+        "reading_time": 8,
+        "hashtags": [
+            "webdev",
+            "frontend",
+            "backend"
+        ]
+    },
+    {
+        "id": 3,
+        "cover": "cover3.jpg",
+        "title": "Data Science Essentials",
+        "author": "Michael Johnson",
+        "author_img": "author3.jpg",
+        "posted_date": "2024-01-17",
+        "reading_time": 12,
+        "hashtags": [
+            "datascience",
+            "analytics",
+            "machinelearning"
+        ]
+    },
+    {
+        "id": 4,
+        "cover": "cover4.jpg",
+        "title": "Mobile App Development Guide",
+        "author": "Emily Wilson",
+        "author_img": "author4.jpg",
+        "posted_date": "2024-01-18",
+        "reading_time": 15,
+        "hashtags": [
+            "mobileapps",
+            "ios",
+            "android"
+        ]
+    }
+]
